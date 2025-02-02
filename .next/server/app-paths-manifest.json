@@ -1,0 +1,6 @@
+{
+  "/author/page": "app/author/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/book/page": "app/book/page.js",
+  "/page": "app/page.js"
+}
